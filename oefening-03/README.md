@@ -22,8 +22,13 @@
  - Voeg aan de URL volgende string toe: `api/users/` en dan een nummer van een student  
    bv. `https://wouterpeetermans.com/iot-programming/api/users/2`
  - Schrijf de response op die je ontvangt. Let daarbij specifiek op de waarde van "state".
+ {
+    "firstname": "Gino",
+    "lastname": "Sinnaeve",
+    "email": "gino.sinnaeve@student.ap.be",
+    "state": false
+}
 
-*Schrijf hier je response op.*
 
 ### POST-request
 
